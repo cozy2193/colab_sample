@@ -1,2 +1,3 @@
-# colab_sample
-AI講座のサンプルノートブックです。
+# Visual Studio Codeの練習
+
+練習です
